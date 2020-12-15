@@ -23,7 +23,7 @@ public class Methode
 			for (int element:myTab); 
 			
 			}
-			static void int PrimeNum(int []myTab) {
+			static int PrimeNum(int []myTab) {
 						for(int i=0; i<myTab.length;i++) {
 							boolean isPrime = true;	
 							
